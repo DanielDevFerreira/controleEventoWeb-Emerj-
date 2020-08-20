@@ -1,0 +1,121 @@
+[19-Dec-2019 15:54:21 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/emerjco/public_html/controleEventoWeb/conexao.php on line 8
+[19-Dec-2019 15:54:21 America/Sao_Paulo] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/emerjco/public_html/controleEventoWeb/conexao.php on line 10
+[19-Dec-2019 15:56:05 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/emerjco/public_html/controleEventoWeb/conexao.php on line 8
+[19-Dec-2019 15:56:05 America/Sao_Paulo] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/emerjco/public_html/controleEventoWeb/conexao.php on line 10
+[19-Dec-2019 15:58:46 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/emerjco/public_html/controleEventoWeb/conexao.php on line 8
+[19-Dec-2019 15:58:46 America/Sao_Paulo] PHP Fatal error:  Call to a member function set_charset() on boolean in /home/emerjco/public_html/controleEventoWeb/conexao.php on line 10
+[18-Mar-2020 13:25:52 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[18-Mar-2020 13:25:52 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 260
+[23-Mar-2020 11:21:36 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[23-Mar-2020 11:21:36 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 260
+[23-Mar-2020 11:21:38 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[23-Mar-2020 11:21:38 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 260
+[23-Mar-2020 11:21:39 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[23-Mar-2020 11:21:39 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 260
+[23-Mar-2020 16:21:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[23-Mar-2020 16:21:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 260
+[26-Mar-2020 10:34:53 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[26-Mar-2020 10:34:53 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 260
+[26-Mar-2020 13:47:55 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[26-Mar-2020 13:47:55 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 260
+[26-Mar-2020 14:18:43 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[26-Mar-2020 14:18:43 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 260
+[26-Mar-2020 16:24:02 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[26-Mar-2020 16:24:02 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 261
+[27-Mar-2020 14:32:06 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[27-Mar-2020 14:32:06 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 261
+[09-Apr-2020 13:12:15 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[09-Apr-2020 13:12:15 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 261
+[14-Apr-2020 10:19:48 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[14-Apr-2020 10:19:48 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 261
+[14-Apr-2020 10:19:50 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[14-Apr-2020 10:19:50 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 261
+[15-Apr-2020 11:54:44 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[15-Apr-2020 11:54:44 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 261
+[19-Apr-2020 22:37:13 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/emerjco/public_html/controleEventoWeb/principal.php on line 243
+[19-Apr-2020 22:37:19 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/emerjco/public_html/controleEventoWeb/principal.php on line 243
+[19-Apr-2020 22:37:24 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/emerjco/public_html/controleEventoWeb/principal.php on line 243
+[19-Apr-2020 22:37:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/emerjco/public_html/controleEventoWeb/principal.php on line 243
+[19-Apr-2020 22:57:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/emerjco/public_html/controleEventoWeb/principal.php on line 242
+[19-Apr-2020 22:57:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/emerjco/public_html/controleEventoWeb/principal.php on line 242
+[19-Apr-2020 22:57:31 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/emerjco/public_html/controleEventoWeb/principal.php on line 242
+[27-Apr-2020 11:10:57 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[27-Apr-2020 11:10:57 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 275
+[27-Apr-2020 16:55:04 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[27-Apr-2020 16:55:04 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 275
+[29-Apr-2020 13:26:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[29-Apr-2020 13:26:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 275
+[29-Apr-2020 13:26:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[29-Apr-2020 13:26:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 275
+[29-Apr-2020 13:26:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[29-Apr-2020 13:26:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 275
+[29-Apr-2020 13:26:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[29-Apr-2020 13:26:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 275
+[29-Apr-2020 13:37:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[29-Apr-2020 13:37:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 275
+[30-Apr-2020 10:09:27 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[30-Apr-2020 10:09:27 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 276
+[06-May-2020 12:10:00 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[06-May-2020 12:10:00 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 276
+[08-May-2020 12:58:46 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[08-May-2020 12:58:46 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 276
+[08-May-2020 12:58:48 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[08-May-2020 12:58:48 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 276
+[08-May-2020 16:43:06 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb/principal.php on line 16
+[08-May-2020 16:43:06 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb/principal.php on line 276
+[18-May-2020 22:00:08 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[18-May-2020 22:00:08 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[21-May-2020 11:01:14 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[21-May-2020 11:01:14 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[21-May-2020 11:01:20 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[21-May-2020 11:01:20 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[21-May-2020 11:13:07 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[21-May-2020 11:13:07 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[21-May-2020 11:13:08 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[21-May-2020 11:13:08 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[21-May-2020 11:13:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[21-May-2020 11:13:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[21-May-2020 11:13:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[21-May-2020 11:13:09 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[21-May-2020 11:13:10 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[21-May-2020 11:13:10 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[21-May-2020 11:13:11 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[21-May-2020 11:13:11 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[21-May-2020 15:46:55 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[21-May-2020 15:46:55 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[22-May-2020 12:03:39 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[22-May-2020 12:03:39 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[25-May-2020 13:36:05 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[25-May-2020 13:36:05 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[25-May-2020 20:24:50 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[25-May-2020 20:24:50 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[26-May-2020 10:55:54 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[26-May-2020 10:55:54 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[02-Jun-2020 15:35:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[02-Jun-2020 15:35:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[03-Jun-2020 22:11:42 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[03-Jun-2020 22:11:42 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[04-Jun-2020 11:07:24 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[04-Jun-2020 11:07:24 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[04-Jun-2020 13:35:51 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[04-Jun-2020 13:35:51 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 274
+[05-Jun-2020 13:26:14 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[05-Jun-2020 13:26:14 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 304
+[05-Jun-2020 13:36:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[05-Jun-2020 13:36:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 304
+[07-Jun-2020 22:56:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[07-Jun-2020 22:56:31 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 315
+[08-Jun-2020 10:43:06 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[08-Jun-2020 10:43:06 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 314
+[08-Jun-2020 12:02:45 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[08-Jun-2020 12:02:45 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 314
+[08-Jun-2020 13:45:14 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[08-Jun-2020 13:45:14 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 318
+[08-Jun-2020 18:07:48 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[08-Jun-2020 18:07:48 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 318
+[09-Jun-2020 11:37:10 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[09-Jun-2020 11:37:10 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 316
+[15-Jun-2020 11:39:50 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[15-Jun-2020 11:39:50 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 316
+[15-Jun-2020 11:39:52 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 16
+[15-Jun-2020 11:39:52 America/Sao_Paulo] PHP Notice:  Undefined index: usuarioNome in /home/emerjco/public_html/controleEventoWeb_HML/principal.php on line 316

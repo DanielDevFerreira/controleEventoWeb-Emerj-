@@ -1,0 +1,92 @@
+#title{
+    color: white;
+    background: #0c344c;
+    font-family: 'Bree Serif', serif;
+    padding: 0.75%;
+    font-size: 120%;
+    text-shadow: 5px 5px 5px #333;
+}
+
+#cadastrar_eventos{
+    padding: 2%;
+}
+
+label{
+    color: #4682B4;
+}
+
+#pesquisa{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#evento{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#cartaz{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#instalacao{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#emerj{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#social{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#email{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#ind{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#oficio{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#uni{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#site-emerj{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#outros{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#total{
+    border: 0 ;
+   border-bottom: 1px solid #c0c0c0;
+}
+
+#dados-consulta{
+    border: 1px solid #c0c0c0;
+    padding: 10px;
+    margin-top: 20px;
+   
+}
+
+#btn{
+    margin-top: 100px;
+}

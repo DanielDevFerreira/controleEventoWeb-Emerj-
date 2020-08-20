@@ -1,0 +1,45 @@
+label{
+    color: #4682B4;
+}
+
+#title{
+    color: white;
+    background: #0c344c;
+    font-family: 'Bree Serif', serif;
+    padding: 0.75%;
+    font-size: 120%;
+    text-shadow: 5px 5px 5px #333;
+}
+
+#cadastrar_eventos{
+    padding: 2%;
+}
+
+#btn1, #btn2{
+    width: 50%;
+    height: 40%;
+    border: 1px solid;
+    border-radius: 35px 35px;
+    background: black;
+    color: white;
+    
+}
+
+#textarea{
+    height: 120px;
+    border: 1px solid #000;
+}
+
+#enviar{
+    margin-left:100px;
+    
+}
+
+#mobile{
+    
+    display: none;
+}
+
+#text, #footer{
+    font-family: 'Bree Serif', serif;
+}

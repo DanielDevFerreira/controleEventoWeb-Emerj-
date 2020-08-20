@@ -1,0 +1,43 @@
+body{
+    background: url(../images/emerj.jpg) no-repeat right top fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;	
+    
+
+}
+.text-center{
+    font-family: 'Bevan', cursive;
+    font-size: 170%;
+}
+
+
+
+.login-form{
+    background-color: aliceblue;
+    opacity: 0.9;
+    font-family: 'News Cycle', sans-serif;
+    padding: 2%;
+    width: 400px;
+    height: 500px;
+    min-width: 200px;
+    margin: 10% auto 0 auto;
+    box-shadow: 0px 5px 10px;
+    
+    
+}
+
+.form-group input{
+    padding: 5%;
+}
+
+.btn-primary{
+    width: 50%;
+    
+}
+
+
+

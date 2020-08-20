@@ -1,0 +1,112 @@
+#corpo {
+
+     height: 748px;
+     opacity: 0.8;
+     background-image: url("../images/abul.jpg");
+     background-size: cover;
+     background-position: top center;
+
+ }
+
+#titulo{
+    text-align: center;
+    font-size: 5em;
+    padding-top: 50px;
+    color: #ffffff;
+    font-family: 'Shrikhand', cursive;
+}
+
+#rodape{
+    text-align: center;
+    font-size: 3em;
+    padding-top: 50px;
+    color: #ffffff;
+    font-family: 'Shrikhand', cursive;
+}
+
+#movimento {
+
+    position: relative;
+    animation: imagem 7s 1;
+    animation-direction: normal;
+}
+
+@keyframes imagem {
+    0% {
+        left: 900px;
+        top: 0px;
+    }
+    50% {
+        left: 0;
+        top: 0px;
+    }
+
+}#movimento2 {
+
+    position: relative;
+    animation: imagem2 10s 1;
+    animation-direction: normal;
+}
+
+@keyframes imagem2 {
+    0% {
+        left: 0px;
+        top: 100px;
+    }
+    50% {
+        left: 0;
+        top: 0px;
+    }
+}
+
+#auditorio{
+    width: 850px;
+    height: 300px;
+}
+
+#auditorio {
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 9px 7px 5px rgba(255, 255, 255, 0.44);
+    margin-top: 25px;
+    font-size: 21px;
+    text-align: center;
+    animation: fadein 8s;
+    -moz-animation: fadein 8s; /* Firefox */
+    -webkit-animation: fadein 8s; /* Safari and Chrome */
+    -o-animation: fadein 8s; /* Opera */
+}
+
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes fadein { /* Opera */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
